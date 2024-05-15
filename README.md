@@ -5,6 +5,7 @@ I'm a Part III Computer Systems Engineering studen @ The University of Auckland.
 - 🎓 Computer Systems Engineering @ The University of Auckland
 - 📧 Email me at [`brayden23nz@gmail.com`](mailto:brayden23nz@gmail.com)
 - 🌏 Connect with me on [LinkedIn](https://www.linkedin.com/in/brayden-hamilton-202559281/)
+- 📄 View my [Curriculum Vitae](./cv/cv.pdf)
 
 ### Tools I Am Familiar With
 
@@ -45,7 +46,7 @@ I'm a Part III Computer Systems Engineering studen @ The University of Auckland.
 [![GitHub contributions graph](https://github.pumbas.net/api/contributions/braydenhamilton?colour=61dafb&bgColour=20232a#gh-dark-mode-only)](https://github.com/pumbas600/github-contributions#gh-dark-mode-only)
 
 <!--
-- 📄 View my [Curriculum Vitae](./cv/)
+ [Curriculum Vitae](./cv/)
 
 
 **braydenhamilton/braydenhamilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
