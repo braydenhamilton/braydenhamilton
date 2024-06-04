@@ -14,6 +14,8 @@ I'm a Part III Computer Systems Engineering studen @ The University of Auckland.
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-004B87?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-616161?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -38,6 +40,8 @@ I'm a Part III Computer Systems Engineering studen @ The University of Auckland.
 ![Powershell](https://img.shields.io/badge/Powershell-2671BE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### 📈 Statistics
+[![Top languages](https://github-readme-stats-sigma-sable.vercel.app/api/top-langs/?username=braydenhamilton&count_private=true&theme=default&layout=compact&card_width=305&langs_count=12&hide=tex,html&exclude_repo=305-Small-Clk#gh-light-mode-only)](https://braydenhamilton.xyz#gh-light-mode-only)
+[![Top languages](https://github-readme-stats-sigma-sable.vercel.app/api/top-langs/?username=braydenhamilton&count_private=true&theme=react&layout=compact&card_width=305&langs_count=12&hide_border=true&hide=tex,html&exclude_repo=305-Small-Clk#gh-dark-mode-only)](https://braydenhamilton.xyz#gh-dark-mode-only)  
 [![GitHub stats](https://github-readme-stats-sigma-sable.vercel.app/api?username=braydenhamilton&count_private=true&show_icons=true&theme=default&card_width=305&hide_rank=true#gh-light-mode-only)](https://braydenhamilton.xyz#gh-light-mode-only)
 [![GitHub stats](https://github-readme-stats-sigma-sable.vercel.app/api?username=braydenhamilton&count_private=true&show_icons=true&theme=react&card_width=305&hide_border=true&hide_rank=true#gh-dark-mode-only)](https://braydenhamilton.xyz#gh-dark-mode-only)  
 [![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=braydenhamilton&theme=default&fire=2f80ed&ring=2f80ed&currStreakLabel=2f80ed&sideNums=2f80ed&date_format=j%20M%5B%20Y%5D#gh-light-mode-only)](https://braydenhamilton.xyz#gh-light-mode-only)
