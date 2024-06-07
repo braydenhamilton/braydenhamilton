@@ -40,8 +40,8 @@ I'm a Part III Computer Systems Engineering studen @ The University of Auckland.
 ![Powershell](https://img.shields.io/badge/Powershell-2671BE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### 📈 Statistics
-[![Top languages](https://github-readme-stats-sigma-sable.vercel.app/api/top-langs/?username=braydenhamilton&count_private=true&theme=default&layout=compact&card_width=305&langs_count=12&hide=tex,html&exclude_repo=305-Small-Clk#gh-light-mode-only)](https://braydenhamilton.xyz#gh-light-mode-only)
-[![Top languages](https://github-readme-stats-sigma-sable.vercel.app/api/top-langs/?username=braydenhamilton&count_private=true&theme=react&layout=compact&card_width=305&langs_count=12&hide_border=true&hide=tex,html&exclude_repo=305-Small-Clk#gh-dark-mode-only)](https://braydenhamilton.xyz#gh-dark-mode-only)  
+[![Top languages](https://github-readme-stats-sigma-sable.vercel.app/api/top-langs/?username=braydenhamilton&count_private=true&theme=default&layout=compact&card_width=305&langs_count=12&hide=tex#gh-light-mode-only)](https://braydenhamilton.xyz#gh-light-mode-only)
+[![Top languages](https://github-readme-stats-sigma-sable.vercel.app/api/top-langs/?username=braydenhamilton&count_private=true&theme=react&layout=compact&card_width=305&langs_count=12&hide_border=true&hide=tex#gh-dark-mode-only)](https://braydenhamilton.xyz#gh-dark-mode-only)  
 [![GitHub stats](https://github-readme-stats-sigma-sable.vercel.app/api?username=braydenhamilton&count_private=true&show_icons=true&theme=default&card_width=305&hide_rank=true#gh-light-mode-only)](https://braydenhamilton.xyz#gh-light-mode-only)
 [![GitHub stats](https://github-readme-stats-sigma-sable.vercel.app/api?username=braydenhamilton&count_private=true&show_icons=true&theme=react&card_width=305&hide_border=true&hide_rank=true#gh-dark-mode-only)](https://braydenhamilton.xyz#gh-dark-mode-only)  
 [![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=braydenhamilton&theme=default&fire=2f80ed&ring=2f80ed&currStreakLabel=2f80ed&sideNums=2f80ed&date_format=j%20M%5B%20Y%5D#gh-light-mode-only)](https://braydenhamilton.xyz#gh-light-mode-only)
