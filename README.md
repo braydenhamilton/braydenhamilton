@@ -18,6 +18,7 @@ I'm a Part III Computer Systems Engineering studen @ The University of Auckland.
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-616161?style=for-the-badge)
+![SCCharts](https://img.shields.io/badge/SCCharts-AB4D68?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ###### Electronics & Embedded Systems
@@ -26,16 +27,25 @@ I'm a Part III Computer Systems Engineering studen @ The University of Auckland.
 ![ATmega328PB](https://img.shields.io/badge/ATmega328PB-ed1b2d?style=for-the-badge)
 ![Microchip Studio](https://img.shields.io/badge/Microchip_Studio-EE3233?style=for-the-badge)
 ![Proteus VSM](https://img.shields.io/badge/Proteus_VSM-1C79B3?style=for-the-badge)
+![Cypress PSoC 5LP](https://img.shields.io/badge/PSoC_5LP-17202c?style=for-the-badge&logo=cypress&logoColor=white)
+![Cypress PSoC Creator](https://img.shields.io/badge/PSoC_Creator-17202c?style=for-the-badge&logo=cypress&logoColor=white)
 ![Intel Cyclone V](https://img.shields.io/badge/Cyclone_V_FPGA-0067a5?style=for-the-badge&logo=intel&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus_Prime-00285A?style=for-the-badge&logo=intel&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-0000FF?style=for-the-badge)
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry_Pi_Pico-a22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
 
 ###### Tools
+![Git](https://img.shields.io/badge/Git-F05133?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-E06437?style=for-the-badge&logo=zsh&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Powershell](https://img.shields.io/badge/Powershell-2671BE?style=for-the-badge&logo=powershell&logoColor=white)
 
