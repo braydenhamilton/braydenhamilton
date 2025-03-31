@@ -1,11 +1,13 @@
 ## Hi there 👋 I'm `braydenhamilton`.
-I'm a Part III Computer Systems Engineering studen @ The University of Auckland.
+I'm a Part IV Computer Systems Engineering studen @ The University of Auckland
+Avid tech enthusiast, mainly specialising in backend developmnent.
 
 - 📍 Auckland, New Zealand
 - 🎓 Computer Systems Engineering @ The University of Auckland
 - 📧 Email me at [`brayden23nz@gmail.com`](mailto:brayden23nz@gmail.com)
 - 🌏 Connect with me on [LinkedIn](https://www.linkedin.com/in/brayden-hamilton-202559281/)
 - 📄 View my [Curriculum Vitae](./cv/cv.pdf)
+- ⛳ I am currently working on a full-stack web app to automate golf bookings. Using a Java Spring backend and a React frontend.
 
 ### Tools I Am Familiar With
 
