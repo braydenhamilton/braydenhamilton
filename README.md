@@ -8,7 +8,7 @@ Avid tech enthusiast, mainly specialising in backend developmnent.
 - 📧 Email me at [`brayden23nz@gmail.com`](mailto:brayden23nz@gmail.com)
 - 🌏 Connect with me on [LinkedIn](https://www.linkedin.com/in/brayden-hamilton-202559281/)
 - 📄 View my [Curriculum Vitae](./cv/cv.pdf)
-- ⛳ I am currently working on a full-stack web app to automate golf bookings. Using a Java Spring backend and a React frontend. [golf-booking-platform](/golf-booking-platform)
+- ⛳ I am currently working on a full-stack web app to automate golf bookings. Using a Java Spring backend and a React frontend. [golf-booking-platform](https://github.com/braydenhamilton/golf-booking-platform)
 
 ### Tools I Am Familiar With
 
