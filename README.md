@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm `braydenhamilton`.
-I'm a Part IV Computer Systems Engineering studen @ The University of Auckland.
+I'm a Part IV Computer Systems Engineering student @ The University of Auckland.
 
 Avid tech enthusiast, mainly specialising in backend developmnent.
 
