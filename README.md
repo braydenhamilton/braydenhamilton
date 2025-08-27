@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm `braydenhamilton`.
-I'm a Part IV Computer Systems Engineering studen @ The University of Auckland.
+I'm a Part IV Computer Systems Engineering student @ The University of Auckland.
 
 Avid tech enthusiast, mainly specialising in backend developmnent.
 
@@ -10,12 +10,14 @@ Avid tech enthusiast, mainly specialising in backend developmnent.
 - 📄 View my [Curriculum Vitae](./cv/cv.pdf)
 - ⛳ I am currently working on a full-stack web app to automate golf bookings. Using a Java Spring backend and a React frontend. [golf-booking-platform](https://github.com/braydenhamilton/golf-booking-platform)
 
-### Tools I Am Familiar With
+### 🔨 What I Am Familiar With 
 
 ###### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-004B87?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,6 +40,21 @@ Avid tech enthusiast, mainly specialising in backend developmnent.
 ![Quartus](https://img.shields.io/badge/Quartus_Prime-00285A?style=for-the-badge&logo=intel&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-0000FF?style=for-the-badge)
 ![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry_Pi_Pico-a22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+###### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+###### Backend
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
 ###### Tools
@@ -62,21 +79,3 @@ Avid tech enthusiast, mainly specialising in backend developmnent.
 [![GitHub contributions graph](https://github.pumbas.net/api/contributions/braydenhamilton?colour=2f80ed&bgColour=fffefe#gh-light-mode-only)](https://github.com/pumbas600/github-contributions#gh-light-mode-only)
 [![GitHub contributions graph](https://github.pumbas.net/api/contributions/braydenhamilton?colour=61dafb&bgColour=20232a#gh-dark-mode-only)](https://github.com/pumbas600/github-contributions#gh-dark-mode-only)
 
-<!--
- [Curriculum Vitae](./cv/)
-
-
-**braydenhamilton/braydenhamilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
