@@ -5,6 +5,7 @@ Avid tech enthusiast.
 
 - 📍 Auckland, New Zealand
 - 🎓 Computer Systems Engineering @ The University of Auckland
+- 💼 Halter
 - 📧 Email me at [`brayden23nz@gmail.com`](mailto:brayden23nz@gmail.com)
 - 🌏 Connect with me on [LinkedIn](https://www.linkedin.com/in/brayden-hamilton-202559281/)
 
